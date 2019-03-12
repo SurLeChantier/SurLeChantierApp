@@ -1,0 +1,7 @@
+{
+  "name": "SurLeChantier",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
